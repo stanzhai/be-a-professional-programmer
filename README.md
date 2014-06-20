@@ -11,6 +11,7 @@
 - [收集前端方面的书籍](https://github.com/lisposter/frontend-books)
 - [分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/foru17/front-end-collect)
 - [2014年最新前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions)
+- [JavaScript编程规范](https://github.com/airbnb/javascript)
 - [《Swift编程语言》中文版](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
 - [AngularJS Guide的中文分支](https://github.com/jmcunningham/AngularJS-Learning/blob/master/ZH-CN.md)
 - [AngularJS应用的最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
@@ -18,6 +19,7 @@
 - [node.js中文资料导航](https://github.com/sergtitov/NodeJS-Learning/blob/master/cn_resource.md)
 - [Nginx开发从入门到精通](https://github.com/taobao/nginx-book)
 - [一起写Python文章，一起看Python文章](https://github.com/hit9/PyZh)
+- [Android Code Path](http://guides.codepath.com/android)
 
 ### 工作、工具篇
 
