@@ -30,3 +30,7 @@
 ### 优秀项目篇
 
 - [Android开源项目分类汇总](https://github.com/Trinea/android-open-project)
+
+### 其他
+
+- [我在博客园积累的一些资料](http://www.cnblogs.com/jasondan/p/it-memo.html)
