@@ -23,6 +23,7 @@
 
 ### 工作、工具篇
 
+- [Pro Git](http://git-scm.com/book/zh)
 - [Google 全球 IP 地址库](https://github.com/justjavac/Google-IPs.git)
 - [收集整理远程工作相关的资料](https://github.com/greatghoul/remote-working)
 - [Color schemes for hackers](https://github.com/chriskempson/base16)
