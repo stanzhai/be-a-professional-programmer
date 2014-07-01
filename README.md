@@ -20,9 +20,11 @@
 - [Nginx开发从入门到精通](https://github.com/taobao/nginx-book)
 - [一起写Python文章，一起看Python文章](https://github.com/hit9/PyZh)
 - [Android Code Path](http://guides.codepath.com/android)
+- [PHP 类库框架，资料集合](https://github.com/ziadoz/awesome-php)
 
 ### 工作、工具篇
 
+- [系统管理员工具集合](https://github.com/kahun/awesome-sysadmin)
 - [Pro Git](http://git-scm.com/book/zh)
 - [Google 全球 IP 地址库](https://github.com/justjavac/Google-IPs.git)
 - [收集整理远程工作相关的资料](https://github.com/greatghoul/remote-working)
