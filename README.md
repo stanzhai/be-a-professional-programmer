@@ -21,6 +21,32 @@
 - [一起写Python文章，一起看Python文章](https://github.com/hit9/PyZh)
 - [Android Code Path](http://guides.codepath.com/android)
 - [PHP 类库框架，资料集合](https://github.com/ziadoz/awesome-php)
+- 
+
+### Swift相关
+
+**客户端**
+
+- [糗事百科 Swift](https://github.com/YANGReal/JokeClient-Swift)
+- [HackerNews Swift](https://github.com/amitburst/HackerNews)
+- [知乎日报app](https://github.com/jxd001/Swift-ZhihuDaily)
+
+**Framework**
+
+- [Twitter框架](https://github.com/mattdonnelly/Swifter)
+- [Mac下简单HTTP Server Swifter](https://github.com/glock45/swifter)
+
+**小工具**
+
+- [Swift Alarm](https://github.com/ChrisChares/swift-alarm)
+- [Swift Note](https://github.com/mslathrop/SwiftNote)
+- [Swift RSS Reader](https://github.com/wantedly/swift-rss-sample)
+- [Swift-PM2.5查询app](https://github.com/sxyx2008/Swift-PM25)
+
+**游戏**
+
+- [Flappy Swift](https://github.com/fullstackio/FlappySwift)
+- [FanFan Swift](https://github.com/geek5nan/FanFanSwift)
 
 ### 工作、工具篇
 
