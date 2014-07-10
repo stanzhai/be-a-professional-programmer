@@ -8,6 +8,7 @@
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 - [《程序员编程艺术 — 面试和算法心得》](https://github.com/julycoding/The-Art-Of-Programming-By-July)
 - [前端技能汇总](http://html5ify.com/fks/)
+- [前端资源大导航](http://www.daqianduan.com/nav)
 - [收集前端方面的书籍](https://github.com/lisposter/frontend-books)
 - [分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/foru17/front-end-collect)
 - [2014年最新前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions)
