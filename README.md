@@ -13,6 +13,7 @@
 - [分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/foru17/front-end-collect)
 - [2014年最新前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions)
 - [JavaScript编程规范](https://github.com/airbnb/javascript)
+- [JavaScript必看视频](https://github.com/bolshchikov/js-must-watch)
 - [《Swift编程语言》中文版](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
 - [AngularJS Guide的中文分支](https://github.com/jmcunningham/AngularJS-Learning/blob/master/ZH-CN.md)
 - [AngularJS应用的最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
