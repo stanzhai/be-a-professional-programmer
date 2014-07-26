@@ -57,6 +57,7 @@
 - [Google 全球 IP 地址库](https://github.com/justjavac/Google-IPs.git)
 - [收集整理远程工作相关的资料](https://github.com/greatghoul/remote-working)
 - [Color schemes for hackers](https://github.com/chriskempson/base16)
+- [游戏开发工具集，MagicTools](https://github.com/ellisonleao/magictools)
 
 ### 优秀项目篇
 
