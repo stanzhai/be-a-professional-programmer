@@ -25,6 +25,7 @@
 - [一起写Python文章，一起看Python文章](https://github.com/hit9/PyZh)
 - [Android Code Path](http://guides.codepath.com/android)
 - [PHP 类库框架，资料集合](https://github.com/ziadoz/awesome-php)
+- [如何制作操作系统](http://samypesse.gitbooks.io/how-to-create-an-operating-system/index.html)
 
 
 ### Swift相关
