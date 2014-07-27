@@ -5,6 +5,7 @@
 资料好多，真是想学也学不完啊，关注自己感兴趣的领域，并深入进去，努力成为T字形人才，既要有知识的深度，又要有一定的广度！
 
 - [超级棒的机器学习资料（框架，库，软件）](https://github.com/josephmisiti/awesome-machine-learning)
+- [Python常用框架,库,软件集合](https://github.com/vinta/awesome-python)
 - [非常不错的语言类学习资料集合：Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [free-programming-books](https://github.com/bingwen/free-programming-books/blob/master/free-programming-books-ch.md)
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
