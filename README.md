@@ -5,6 +5,7 @@
 资料好多，真是想学也学不完啊，关注自己感兴趣的领域，并深入进去，努力成为T字形人才，既要有知识的深度，又要有一定的广度！
 
 - [1.Awesome:平台，语言，五花八门的技术合集](https://github.com/sindresorhus/awesome) ，[2.lists](https://github.com/jnv/lists)
+- [Awesome Nodejs(学习nodejs的资料够全了)](https://github.com/sindresorhus/awesome-nodejs)
 - [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
 - [超级棒的机器学习资料（框架，库，软件）](https://github.com/josephmisiti/awesome-machine-learning), [中文翻译版](http://www.oschina.net/news/53818/awesome-machine-learning)
 - [Python常用框架,库,软件集合](https://github.com/vinta/awesome-python)
