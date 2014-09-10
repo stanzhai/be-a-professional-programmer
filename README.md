@@ -8,6 +8,8 @@
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
 - [Awesome Nodejs(学习nodejs的资料够全了)](https://github.com/sindresorhus/awesome-nodejs)
 - [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
+- [R的极客理想系列文章](http://blog.fens.me/series-r/)
+- [Nodejs学习路线图](http://blog.fens.me/nodejs-roadmap/)
 - [如何学习nodejs](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js/9629682#9629682)
 - [超级棒的机器学习资料（框架，库，软件）](https://github.com/josephmisiti/awesome-machine-learning), [中文翻译版](http://www.oschina.net/news/53818/awesome-machine-learning)
 - [Python常用框架,库,软件集合](https://github.com/vinta/awesome-python)
