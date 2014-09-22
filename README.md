@@ -37,6 +37,7 @@
 - [借助开源项目学习软件开发](https://github.com/zhuangbiaowei/learn-with-open-source)
 - [Docker资料合集](http://special.csdncms.csdn.net/BeDocker/)
 - [学习使用Strom](https://github.com/apache/incubator-storm/tree/master/examples/storm-starter)
+- [HadoopInternals](http://ercoppa.github.io/HadoopInternals/)
 
 
 ### Swift相关
