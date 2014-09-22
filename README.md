@@ -8,6 +8,7 @@
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
 - [Awesome Nodejs(学习nodejs的资料够全了)](https://github.com/sindresorhus/awesome-nodejs)
 - [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
+- [Awesome R](https://github.com/qinwf/awesome-R)
 - [R的极客理想系列文章](http://blog.fens.me/series-r/)
 - [Nodejs学习路线图](http://blog.fens.me/nodejs-roadmap/)
 - [如何学习nodejs](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js/9629682#9629682)
@@ -37,7 +38,8 @@
 - [借助开源项目学习软件开发](https://github.com/zhuangbiaowei/learn-with-open-source)
 - [Docker资料合集](http://special.csdncms.csdn.net/BeDocker/)
 - [学习使用Strom](https://github.com/apache/incubator-storm/tree/master/examples/storm-starter)
-- [HadoopInternals](http://ercoppa.github.io/HadoopInternals/)
+- [Hadoop Internals](http://ercoppa.github.io/HadoopInternals/)
+- [Spark Internals](https://github.com/JerryLead/SparkInternals/tree/master/markdown)
 
 
 ### Swift相关
