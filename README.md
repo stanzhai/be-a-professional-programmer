@@ -13,6 +13,7 @@
 - [Nodejs学习路线图](http://blog.fens.me/nodejs-roadmap/)
 - [如何学习nodejs](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js/9629682#9629682)
 - [超级棒的机器学习资料（框架，库，软件）](https://github.com/josephmisiti/awesome-machine-learning), [中文翻译版](http://www.oschina.net/news/53818/awesome-machine-learning)
+- [机器学习(Machine Learning)&深入学习(Deep Learning)资料](http://news.cnblogs.com/n/504467/)
 - [Python常用框架,库,软件集合](https://github.com/vinta/awesome-python)
 - [非常不错的语言类学习资料集合：Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [free-programming-books](https://github.com/bingwen/free-programming-books/blob/master/free-programming-books-ch.md)
