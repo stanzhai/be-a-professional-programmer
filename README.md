@@ -43,6 +43,7 @@
 - [学习使用Strom](https://github.com/apache/incubator-storm/tree/master/examples/storm-starter)
 - [Hadoop Internals](http://ercoppa.github.io/HadoopInternals/)
 - [Spark Internals](https://github.com/JerryLead/SparkInternals/tree/master/markdown)
+- [大数据时代的数据分析与数据挖掘 – 基于Hadoop实现](http://hadoop.readthedocs.org/en/latest/)
 
 
 ### Swift相关
