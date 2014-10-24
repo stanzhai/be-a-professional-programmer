@@ -40,6 +40,7 @@
 - [借助开源项目学习软件开发](https://github.com/zhuangbiaowei/learn-with-open-source)
 - [几个不错的开源游戏引擎](http://code.csdn.net/news/2821842)
 - [Docker资料合集](http://special.csdncms.csdn.net/BeDocker/)
+- [最值得关注的10个C语言开源项目](http://news.cnblogs.com/n/506775/)
 - [学习使用Strom](https://github.com/apache/incubator-storm/tree/master/examples/storm-starter)
 - [Hadoop Internals](http://ercoppa.github.io/HadoopInternals/)
 - [Spark Internals](https://github.com/JerryLead/SparkInternals/tree/master/markdown)
