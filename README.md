@@ -10,6 +10,7 @@
 - [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
 - [Awesome R](https://github.com/qinwf/awesome-R)
 - [Awesome Scala](https://github.com/lauris/awesome-scala)
+- [stackoverflow_scala_info](http://stackoverflow.com/tags/scala/info)
 - [R的极客理想系列文章](http://blog.fens.me/series-r/)
 - [Nodejs学习路线图](http://blog.fens.me/nodejs-roadmap/)
 - [如何学习nodejs](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js/9629682#9629682)
