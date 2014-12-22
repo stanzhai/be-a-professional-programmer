@@ -5,6 +5,7 @@
 资料好多，真是想学也学不完啊，关注自己感兴趣的领域，并深入进去，努力成为T字形人才，既要有知识的深度，又要有一定的广度！
 
 - [1.Awesome:平台，语言，五花八门的技术合集](https://github.com/sindresorhus/awesome) ，[2.lists](https://github.com/jnv/lists)
+- [awesom-python](https://github.com/vinta/awesome-python)
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
 - [Awesome Nodejs(学习nodejs的资料够全了)](https://github.com/sindresorhus/awesome-nodejs)
 - [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
@@ -17,7 +18,6 @@
 - [如何学习nodejs](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js/9629682#9629682)
 - [超级棒的机器学习资料（框架，库，软件）](https://github.com/josephmisiti/awesome-machine-learning), [中文翻译版](http://www.oschina.net/news/53818/awesome-machine-learning)
 - [机器学习(Machine Learning)&深入学习(Deep Learning)资料](http://news.cnblogs.com/n/504467/)
-- [Python常用框架,库,软件集合](https://github.com/vinta/awesome-python)
 - [非常不错的语言类学习资料集合：Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [free-programming-books](https://github.com/bingwen/free-programming-books/blob/master/free-programming-books-ch.md)
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
