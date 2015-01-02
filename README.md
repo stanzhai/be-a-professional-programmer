@@ -13,6 +13,7 @@
 - [Awesome Scala](https://github.com/lauris/awesome-scala)
 - [awesome-react](https://github.com/enaqx/awesome-react)
 - [stackoverflow_scala_info](http://stackoverflow.com/tags/scala/info)
+- [Bast-App](https://github.com/hzlzh/Best-App)
 - [R的极客理想系列文章](http://blog.fens.me/series-r/)
 - [Nodejs学习路线图](http://blog.fens.me/nodejs-roadmap/)
 - [如何学习nodejs](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js/9629682#9629682)
