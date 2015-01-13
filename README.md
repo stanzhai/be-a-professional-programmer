@@ -53,6 +53,7 @@
 
 ### Swift相关
 
+- [Swift精选资料](https://github.com/ipader/SwiftGuide)
 - [43个优秀的开源项目](http://www.csdn.net/article/2015-01-09/2823502-swift-open-source-libs)
 
 **客户端**
