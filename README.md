@@ -53,6 +53,8 @@
 
 ### Swift相关
 
+- [43个优秀的开源项目](http://www.csdn.net/article/2015-01-09/2823502-swift-open-source-libs)
+
 **客户端**
 
 - [糗事百科 Swift](https://github.com/YANGReal/JokeClient-Swift)
