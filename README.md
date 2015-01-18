@@ -49,6 +49,8 @@
 - [Hadoop Internals](http://ercoppa.github.io/HadoopInternals/)
 - [Spark Internals](https://github.com/JerryLead/SparkInternals/tree/master/markdown)
 - [大数据时代的数据分析与数据挖掘 – 基于Hadoop实现](http://hadoop.readthedocs.org/en/latest/)
+- [15款值得学习的小型开源项目](http://code.csdn.net/news/2822568)
+- [十大Material Design开源项目](http://code.csdn.net/news/2822753)
 
 
 ### Swift相关
