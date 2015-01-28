@@ -52,6 +52,7 @@
 - [最值得关注的10个C语言开源项目](http://news.cnblogs.com/n/506775/)
 - [15款值得学习的小型开源项目](http://code.csdn.net/news/2822568)
 - [十大Material Design开源项目](http://code.csdn.net/news/2822753)
+- [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
 
 ### Swift相关
 
