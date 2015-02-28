@@ -32,6 +32,7 @@
 - [JavaScript编程规范](https://github.com/airbnb/javascript)
 - [JavaScript必看视频](https://github.com/bolshchikov/js-must-watch)
 - [JavaScript标准参考教程（阮一峰的，整理的不错）](http://javascript.ruanyifeng.com/)
+- [JS必看](https://github.com/bolshchikov/js-must-watch)
 - [《Swift编程语言》中文版](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
 - [AngularJS Guide的中文分支](https://github.com/jmcunningham/AngularJS-Learning/blob/master/ZH-CN.md)
 - [AngularJS应用的最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
