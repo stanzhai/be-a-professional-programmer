@@ -29,6 +29,7 @@
 - [收集前端方面的书籍](https://github.com/lisposter/frontend-books)
 - [分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/foru17/front-end-collect)
 - [2014年最新前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions)
+- [简单清晰的JavaScript语言教程，代码示例](https://github.com/airbnb/javascript)
 - [JavaScript编程规范](https://github.com/airbnb/javascript)
 - [JavaScript必看视频](https://github.com/bolshchikov/js-must-watch)
 - [JavaScript标准参考教程（阮一峰的，整理的不错）](http://javascript.ruanyifeng.com/)
