@@ -92,6 +92,7 @@
 - [收集整理远程工作相关的资料](https://github.com/greatghoul/remote-working)
 - [Color schemes for hackers](https://github.com/chriskempson/base16)
 - [游戏开发工具集，MagicTools](https://github.com/ellisonleao/magictools)
+- [开发者工具箱， free-for-dev](https://github.com/ripienaar/free-for-dev)
 
 ### 优秀项目篇
 
