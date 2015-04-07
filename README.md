@@ -12,6 +12,7 @@
 - [Awesome R](https://github.com/qinwf/awesome-R)
 - [Awesome Scala](https://github.com/lauris/awesome-scala)
 - [awesome-react](https://github.com/enaqx/awesome-react)
+- [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [stackoverflow_scala_info](http://stackoverflow.com/tags/scala/info)
 - [Scala Tour](https://github.com/yankay/scala-tour/)
 - [Bast-App](https://github.com/hzlzh/Best-App)
