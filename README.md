@@ -56,6 +56,7 @@
 - [15款值得学习的小型开源项目](http://code.csdn.net/news/2822568)
 - [十大Material Design开源项目](http://code.csdn.net/news/2822753)
 - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
+- [Git风格指南](https://github.com/agis-/git-style-guide)
 - [前端资源](https://github.com/moklick/frontend-stuff)
 
 ### Swift相关
