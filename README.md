@@ -55,6 +55,7 @@
 - [几个不错的开源游戏引擎](http://code.csdn.net/news/2821842)
 - [最值得关注的10个C语言开源项目](http://news.cnblogs.com/n/506775/)
 - [15款值得学习的小型开源项目](http://code.csdn.net/news/2822568)
+- [iOS-100个开源组件](https://github.com/Aufree/trip-to-iOS)
 - [十大Material Design开源项目](http://code.csdn.net/news/2822753)
 - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
 - [Git风格指南](https://github.com/agis-/git-style-guide)
