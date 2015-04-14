@@ -13,6 +13,7 @@
 - [Awesome Scala](https://github.com/lauris/awesome-scala)
 - [awesome-react](https://github.com/enaqx/awesome-react)
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
+- [awesome-ios](https://github.com/vsouza/awesome-ios)
 - [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 - [stackoverflow_scala_info](http://stackoverflow.com/tags/scala/info)
