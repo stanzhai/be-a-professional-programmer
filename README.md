@@ -40,6 +40,7 @@
 - [JS必看](https://github.com/bolshchikov/js-must-watch)
 - [《Swift编程语言》中文版](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
 - [AngularJS Guide的中文分支](https://github.com/jmcunningham/AngularJS-Learning/blob/master/ZH-CN.md)
+- [Angular2学习资料](https://github.com/timjacobi/angular2-education)
 - [AngularJS应用的最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
 - [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
 - [node.js中文资料导航](https://github.com/sergtitov/NodeJS-Learning/blob/master/cn_resource.md)
