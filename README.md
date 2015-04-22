@@ -17,6 +17,7 @@
 - [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 - [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
+- [awesome-java](https://github.com/akullpp/awesome-java)
 - [stackoverflow_scala_info](http://stackoverflow.com/tags/scala/info)
 - [Scala Tour](https://github.com/yankay/scala-tour/)
 - [Bast-App](https://github.com/hzlzh/Best-App)
