@@ -20,6 +20,7 @@
 - [awesome-java](https://github.com/akullpp/awesome-java)
 - [awesome-go](https://github.com/avelino/awesome-go.git)
 - [awesome-AppSec(系统安全)](https://github.com/paragonie/awesome-appsec)
+- [GoBooks](https://github.com/dariubs/GoBooks)
 - [Papers we love](https://github.com/papers-we-love/papers-we-love)
 - [stackoverflow_scala_info](http://stackoverflow.com/tags/scala/info)
 - [Scala Tour](https://github.com/yankay/scala-tour/)
