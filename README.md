@@ -4,7 +4,7 @@
 
 资料好多，真是想学也学不完啊，关注自己感兴趣的领域，并深入进去，努力成为T字形人才，既要有知识的深度，又要有一定的广度！
 
-- [1.Awesome:平台，语言，五花八门的技术合集](https://github.com/sindresorhus/awesome) ，[2.lists](https://github.com/jnv/lists)
+- [1.Awesome:平台，语言，五花八门的技术合集](https://github.com/sindresorhus/awesome) ，[2.lists](https://github.com/jnv/lists), [3.各种Awesome](https://github.com/sindresorhus/awesome)
 - [awesom-python](https://github.com/vinta/awesome-python)
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
 - [Awesome Nodejs(学习nodejs的资料够全了)](https://github.com/sindresorhus/awesome-nodejs)
