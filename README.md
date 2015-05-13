@@ -31,7 +31,7 @@
 - [超级棒的机器学习资料（框架，库，软件）](https://github.com/josephmisiti/awesome-machine-learning), [中文翻译版](http://www.oschina.net/news/53818/awesome-machine-learning)
 - [机器学习(Machine Learning)&深入学习(Deep Learning)资料](http://news.cnblogs.com/n/504467/)
 - [非常不错的语言类学习资料集合：Awesomeness](https://github.com/bayandin/awesome-awesomeness)
-- [free-programming-books](https://github.com/bingwen/free-programming-books/blob/master/free-programming-books-ch.md)
+- [free-programming-books](https://github.com/bingwen/free-programming-books/blob/master/free-programming-books-ch.md) [中文版](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 - [《程序员编程艺术 — 面试和算法心得》](https://github.com/julycoding/The-Art-Of-Programming-By-July)
 - [前端技能汇总](http://html5ify.com/fks/)
