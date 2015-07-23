@@ -21,6 +21,7 @@
 - [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
 - [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [awesome-AppSec(系统安全)](https://github.com/paragonie/awesome-appsec)
+- [awesome-datascience](https://github.com/okulbilisim/awesome-datascience)
 - [GoBooks](https://github.com/dariubs/GoBooks)
 - [Papers we love](https://github.com/papers-we-love/papers-we-love)
 - [stackoverflow_scala_info](http://stackoverflow.com/tags/scala/info)
