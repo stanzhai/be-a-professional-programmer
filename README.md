@@ -73,6 +73,7 @@
 - [前端资源](https://github.com/moklick/frontend-stuff)
 - [HTTP接口设计指南](https://github.com/bolasblack/http-api-guide)
 - [Readings in Databases](https://github.com/rxin/db-readings)
+- [Data Science blogs](https://github.com/rushter/data-science-blogs)
 
 ### Swift相关
 
