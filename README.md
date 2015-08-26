@@ -75,6 +75,7 @@
 - [HTTP接口设计指南](https://github.com/bolasblack/http-api-guide)
 - [Readings in Databases](https://github.com/rxin/db-readings)
 - [Data Science blogs](https://github.com/rushter/data-science-blogs)
+- [日志：每个软件工程师都应该知道的有关实时数据的统一概念](https://github.com/oldratlee/translations/blob/master/log-what-every-software-engineer-should-know-about-real-time-datas-unifying/README.md)
 
 ### Swift相关
 
