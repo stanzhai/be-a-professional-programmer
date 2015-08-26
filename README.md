@@ -71,6 +71,7 @@
 - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
 - [Git风格指南](https://github.com/agis-/git-style-guide)
 - [前端资源](https://github.com/moklick/frontend-stuff)
+- [前端开发指南](https://github.com/w3crange/Front-End-Develop-Guide)
 - [HTTP接口设计指南](https://github.com/bolasblack/http-api-guide)
 - [Readings in Databases](https://github.com/rxin/db-readings)
 - [Data Science blogs](https://github.com/rushter/data-science-blogs)
