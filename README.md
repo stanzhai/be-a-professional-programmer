@@ -1,8 +1,8 @@
 ## IT 资料备忘录（长期维护）
 
-### 学习资料篇
+为什么有这么多烂七八糟的东西？喜欢技术，喜欢折腾，仅此而已！
 
-资料好多，真是想学也学不完啊，关注自己感兴趣的领域，并深入进去，努力成为T字形人才，既要有知识的深度，又要有一定的广度！
+### 学习资料篇
 
 - [1.Awesome:平台，语言，五花八门的技术合集](https://github.com/sindresorhus/awesome) ，[2.lists](https://github.com/jnv/lists), [3.各种Awesome](https://github.com/sindresorhus/awesome)
 - [awesom-python](https://github.com/vinta/awesome-python)
@@ -22,6 +22,7 @@
 - [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [awesome-AppSec(系统安全)](https://github.com/paragonie/awesome-appsec)
 - [awesome-datascience](https://github.com/okulbilisim/awesome-datascience)
+- [React-Native学习指南](https://github.com/reactnativecn/react-native-guide)
 - [GoBooks](https://github.com/dariubs/GoBooks)
 - [Papers we love](https://github.com/papers-we-love/papers-we-love)
 - [stackoverflow_scala_info](http://stackoverflow.com/tags/scala/info)
