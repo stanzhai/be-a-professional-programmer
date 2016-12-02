@@ -2,6 +2,8 @@
 
 为什么有这么多烂七八糟的东西？喜欢技术，喜欢折腾，仅此而已！
 
+技术博客；日常工具
+
 ### 学习资料篇
 
 - [1.Awesome:平台，语言，五花八门的技术合集](https://github.com/sindresorhus/awesome) ，[2.lists](https://github.com/jnv/lists), [3.各种Awesome](https://github.com/sindresorhus/awesome)
