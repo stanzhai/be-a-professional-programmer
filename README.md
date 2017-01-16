@@ -17,7 +17,6 @@ TODO...
 - Hacker News：非常棒的针对编程的链接聚合网站
 - Techmeme：美国知名科技新闻和博客聚集网站，类似的还有（Panda, Hacker & Designer News）
 - Programming reddit：同上
-- [Coding Horror](https://blog.codinghorror.com/): 
 - Java牛人必备：ProgramCreek
 - stackoverflow：IT技术问答网站
 - GitHub：全球最大的源代码管理平台，很多知名开源项目都在上面，如Linux内核，OpenStack等
@@ -64,6 +63,7 @@ TODO...
 
 - 云风（游戏界大牛）: <http://blog.codingnow.com/>
 - 王垠（不少文章喷到蛮有道理）：<http://www.yinwang.org/>
+- Jeff Atwood（国外知名博主）: <https://blog.codinghorror.com/>
 - 阮一峰（黑客与画家译者，Web）：<http://www.ruanyifeng.com/>
 - 廖雪峰（他的Python、Git教程不少人都看过）：<http://www.liaoxuefeng.com/>
 - 道哥的黑板报（安全）：<https://zhuanlan.zhihu.com/taosay>
