@@ -351,7 +351,7 @@ TODO...
 
 ## Web前端
 
-- Vue.js: 
+- Vue.js: 借鉴了Angular及React的JS框架，设计理念较为先进
 - GRUNT: js task runner
 - Sea.js: js模块化
 - knockout.js：MVVM开发前台，绑定技术
