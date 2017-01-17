@@ -230,6 +230,7 @@ TODO...
 
 ### 常用工具
 
+- [asciinema](https://asciinema.org/): 终端录屏神器
 - Fiddler：非常好用的Web前端调试工具，当然是针对底层http协议的，一般情况使用Chrome等自带的调试工具也足够了，特殊情况还得用它去处理
 - Charles: Mac上的Web代理调试工具，类似Fiddler
 - wireshark：知名的网络数据包分析工具
