@@ -48,6 +48,8 @@ TODO...
 - 编程之美
 - 黑客与画家
 - 编程珠玑
+- The Little Schemer
+- Simply Scheme_Introducing_Computer_Science
 - C++ Prime
 - Effective C++
 - TCP/IP详解
@@ -276,7 +278,7 @@ TODO...
 - Karabiner: Mac专用，修改键盘键位的神器，机械键盘必备
 - Timing：Mac专用，统计你的时间都花在哪了
 - f.lux: 护眼神器，过滤蓝光，程序员护眼必备良品
-- latex: 基于ΤΕΧ的排版系统, 让写论文更方便
+- LaTeX: 基于ΤΕΧ的排版系统, 让写论文更方便
 
 ### 第三方服务
 
@@ -412,6 +414,10 @@ TODO...
 - jsfiddle: <http://jsfiddle.net/> 前端js，html，css测试利器
 
 ## 语言篇
+
+折腾中：Scala、Python、Lua、Go
+
+待折腾：[Rust](https://www.rust-lang.org)、[Racket](http://racket-lang.org/)
 
 ### Java
 
