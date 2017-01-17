@@ -276,6 +276,7 @@ TODO...
 - Karabiner: Mac专用，修改键盘键位的神器，机械键盘必备
 - Timing：Mac专用，统计你的时间都花在哪了
 - f.lux: 护眼神器，过滤蓝光，程序员护眼必备良品
+- latex: 基于ΤΕΧ的排版系统, 让写论文更方便
 
 ### 第三方服务
 
@@ -455,6 +456,8 @@ TODO...
 - numpy:科学计算包，主要用来处理大型矩阵计算等，此外还有SciPy，Matplotlib
 - GUI相关：PyQt，PyQwt
 - supervisor:进程监控工具
+- PyGame: 基于Python的多媒体开发和游戏软件开发模块
+- Web框架: Django 开源web开发框架，它鼓励快速开发,并遵循MVC设计
 
 ### .NET
 
