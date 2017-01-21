@@ -18,7 +18,7 @@
   - [技术站点](#%E6%8A%80%E6%9C%AF%E7%AB%99%E7%82%B9)
   - [必看书籍](#%E5%BF%85%E7%9C%8B%E4%B9%A6%E7%B1%8D)
   - [大牛博客](#%E5%A4%A7%E7%89%9B%E5%8D%9A%E5%AE%A2)
-  - [GitHub](#github)
+- [GitHub篇](#github%E7%AF%87)
   - [学习资料篇](#%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%E7%AF%87)
   - [Swift相关](#swift%E7%9B%B8%E5%85%B3)
   - [工作、工具篇](#%E5%B7%A5%E4%BD%9C%E5%B7%A5%E5%85%B7%E7%AF%87)
@@ -57,9 +57,10 @@
 - GitHub：全球最大的源代码管理平台，很多知名开源项目都在上面，如Linux内核，OpenStack等
 - LeetCode：来做做这些题吧，看看自己的算法水平如何？这可比什么面试宝典强多了。
 - Kaggle,Topcoder: 机器学习、大数据竞赛
-- infoq：企业级应用，关注软件开发领域
-- OSChina：开源技术社区，开源方面做的不错哦
-- cnblogs，51cto，csdn：常见的技术社区，各有专长
+- [掘金](https://gold.xitu.io/)：高质量的技术社区
+- [开发者头条](https://toutiao.io/)
+- [InfoQ](http://www.infoq.com/cn)：企业级应用，关注软件开发领域
+- 国内老牌技术社区：OSChina、博客园、CSDN、51CTO
 - 免费的it电子书：<http://it-ebooks.info/>
 - 在线学习：<http://www.udemy.com/>
 - 优质学习资源：<http://plus.mojiax.com/>
@@ -105,10 +106,11 @@
 - 廖雪峰（他的Python、Git教程不少人都看过）：<http://www.liaoxuefeng.com/>
 - 道哥的黑板报（安全）：<https://zhuanlan.zhihu.com/taosay>
 
-### GitHub
+## GitHub篇
 
 ### 学习资料篇
 
+- [自然语言处理NLP推荐学习路线及参考资料](https://github.com/JustFollowUs/Natural-Language-Processing)
 - [1.Awesome:平台，语言，五花八门的技术合集](https://github.com/sindresorhus/awesome) ，[2.lists](https://github.com/jnv/lists), [3.各种Awesome](https://github.com/sindresorhus/awesome)
 - [awesom-python](https://github.com/vinta/awesome-python)
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
