@@ -460,7 +460,8 @@
 
 ### Java
 
-- 常用的IDE：IntelliJ IDEA，Eclipse，Netbeans
+- 常用的IDE：IntelliJ IDEA(强烈推荐)，Eclipse，Netbeans
+- [fastutil](http://fastutil.di.unimi.it/): 性能更好的Java集合框架
 - Rx(Reactive Extensions)框架：Vert.x, RxJava(Android中用的比较多),  Quasar
 - FindBugs: 代码静态分析工具，找出代码缺陷
 - Java反编译工具：Luyten，JD-Gui
