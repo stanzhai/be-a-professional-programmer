@@ -301,9 +301,9 @@
 - dependency walker：查询Windows应用程序dll依赖项
 - Shairport4w：将iPhone，iPad，iPod上的音频通过AirPlay协议传输到PC上
 - ngrok：内网穿透工具
-- Axure:快速原型制作工具，还有个在线作图的工具国内的一个创业团队做的，用着很不错http://www.processon.com/
+- Axure:快速原型制作工具，还有个在线作图的工具国内的一个创业团队做的，用着很不错<http://www.processon.com/>
 - Origami: 次世代交互设计神器
-- 百度脑图：http://naotu.baidu.com/
+- 百度脑图：<http://naotu.baidu.com/>
 - tinyproxy:（Linux）小型的代理服务器支持http和https协议
 - EaseUS Partition Master：超级简单的分区调整工具，速度还是蛮快的，C盘不够用了就用它从D盘划点空间吧，不用重装系统这么折腾哦。
 - CheatEngine：玩游戏修改内存值必备神器（记得我在玩轩辕剑6的时候就用的它，超级方便呢）
@@ -318,6 +318,7 @@
 - Timing：Mac专用，统计你的时间都花在哪了
 - f.lux: 护眼神器，过滤蓝光，程序员护眼必备良品
 - LaTeX: 基于ΤΕΧ的排版系统, 让写论文更方便
+- Antlr：开源的语法分析器，可以让你毫无压力的写个小parser
 
 ### 第三方服务
 
@@ -462,6 +463,8 @@
 
 - 常用的IDE：IntelliJ IDEA(强烈推荐)，Eclipse，Netbeans
 - [fastutil](http://fastutil.di.unimi.it/): 性能更好的Java集合框架
+- Guava: 谷歌的Java工具包，应用广泛
+- Curator：Netflix公司开源的一个Zookeeper client library，用于简化Zookeeper客户端编程，现在已经是apache下的一个独立项目了。Spark的HA也用的这货。
 - Rx(Reactive Extensions)框架：Vert.x, RxJava(Android中用的比较多),  Quasar
 - FindBugs: 代码静态分析工具，找出代码缺陷
 - Java反编译工具：Luyten，JD-Gui
@@ -479,13 +482,11 @@
 - Nutch:知名的爬虫项目，hadoop就是从这个项目中发展出来的
 - web-harvest：Web数据提取工具
 - POM工具：Maven+Artifactory
-- Curator：Netflix公司开源的一个Zookeeper client library，用于简化Zookeeper客户端编程，现在已经是apache下的一个独立项目了。Spark的HA也用的这货。
 - Akka:一款基于actor模型实现的 并发处理框架
 - EclEmma：覆盖测试工具
 - Shiro:安全框架
 - joda-time:简化时间处理
 - parboiled:表达式解析
-- guava: 谷歌的Java工具包
 - dozer: 深拷贝神器
 - dubbo: 阿里巴巴出品的分布式服务框架
 - jackson databind: json序列化工具(fastjson,simplejson)
@@ -537,7 +538,6 @@
 - Jexus：Linux下 高性能、易用、免费的ASP.NET服务器
 - Clay：将dynamic发挥的更加灵活，像写js一样写C#
 - DynamicJSON：不必定义数据模型获取json数据
-- Antlr：开源的语法分析器（归到C#不太合适，其他语言也可以去用）
 - SharpPcap：C#版的WinPcap调用端，牛逼的网络包分析库（自带PacketNotNet用于包协议分析）
 - Roslyn：C#，VB编译器
 - ImageResizer: 服务端自由控制图片大小，真乃神器也，对手机端传小图，PC端传大图，CMS用它很方便
