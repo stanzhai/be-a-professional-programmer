@@ -60,6 +60,7 @@
 - [掘金](https://gold.xitu.io/)：高质量的技术社区
 - [开发者头条](https://toutiao.io/)
 - [InfoQ](http://www.infoq.com/cn)：企业级应用，关注软件开发领域
+- [V2EX: way to explore](https://www.v2ex.com/)
 - 国内老牌技术社区：OSChina、博客园、CSDN、51CTO
 - 免费的it电子书：<http://it-ebooks.info/>
 - 在线学习：<http://www.udemy.com/>
