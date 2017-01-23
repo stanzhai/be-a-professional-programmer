@@ -458,7 +458,7 @@
 
 折腾中：Scala、Python、Lua、Go
 
-待折腾：[Rust](https://www.rust-lang.org)、[Racket](http://racket-lang.org/)
+待折腾：[Rust](https://www.rust-lang.org)、[Racket](http://racket-lang.org/)、[Julia](http://julialang.org/)
 
 ### Java
 
