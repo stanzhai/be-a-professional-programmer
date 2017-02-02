@@ -458,7 +458,7 @@
 
 ## 语言篇
 
-折腾中：Scala、Python、Lua、Go
+折腾中：Scala、Python、Lua、JavaScript、Go
 
 待折腾：
 - [Racket](http://racket-lang.org/)
