@@ -33,6 +33,7 @@
 - [大数据处理/数据分析/分布式工具](#%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%88%86%E5%B8%83%E5%BC%8F%E5%B7%A5%E5%85%B7)
 - [Web前端](#web%E5%89%8D%E7%AB%AF)
 - [语言篇](#%E8%AF%AD%E8%A8%80%E7%AF%87)
+  - [Scala](#scala)
   - [Java](#java)
   - [Python](#python)
   - [.NET](#net)
