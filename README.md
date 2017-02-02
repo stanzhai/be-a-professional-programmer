@@ -48,11 +48,12 @@
 
 ### 技术站点
 
+- [MOOC学院](http://mooc.guokr.com/course/)
 - MIT公开课、[Coursera](https://www.coursera.org/)
 - Hacker News：非常棒的针对编程的链接聚合网站
 - Techmeme：美国知名科技新闻和博客聚集网站，类似的还有（Panda, Hacker & Designer News）
 - Programming reddit：同上
-- Java牛人必备：ProgramCreek
+- Java牛人必备：[Program Creek](http://www.programcreek.com/)
 - stackoverflow：IT技术问答网站
 - GitHub：全球最大的源代码管理平台，很多知名开源项目都在上面，如Linux内核，OpenStack等
 - LeetCode：来做做这些题吧，看看自己的算法水平如何？这可比什么面试宝典强多了。
