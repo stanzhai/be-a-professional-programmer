@@ -270,6 +270,7 @@
 
 ### 常用工具
 
+- [Mac下的神兵利器](https://github.com/hzlzh/Best-App)
 - [asciinema](https://asciinema.org/): 终端录屏神器
 - Fiddler：非常好用的Web前端调试工具，当然是针对底层http协议的，一般情况使用Chrome等自带的调试工具也足够了，特殊情况还得用它去处理
 - Charles: Mac上的Web代理调试工具，类似Fiddler
