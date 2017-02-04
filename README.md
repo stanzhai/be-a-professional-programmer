@@ -479,6 +479,8 @@
 - [Scala By Example](http://www.scala-lang.org/docu/files/ScalaByExample.pdf)
 - [Scala Cheatsheet](http://docs.scala-lang.org/cheatsheets/)学习模式匹配的好资料
 - [Glossary of Scala and FP terms](http://docs.scala-lang.org/glossary/)
+- [Metascala: A JVM written in Scala](https://github.com/lihaoyi/Metascala)
+- [LMS: Program Generation and Embedded Compilers in Scala](https://scala-lms.github.io/)
 
 ### Java
 
