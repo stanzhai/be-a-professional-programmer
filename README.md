@@ -49,7 +49,7 @@
 
 ### 技术站点
 
-- 在线学习：[MOOC学院](http://mooc.guokr.com/course/)、[edX](https://www.edx.org/)、[MIT公开课](https://ocw.mit.edu/index.htm)、[Coursera](https://www.coursera.org/)
+- 在线学习：[MOOC学院](http://mooc.guokr.com/course/)、[edX](https://www.edx.org/)、[MIT公开课](https://ocw.mit.edu/index.htm)、[Coursera](https://www.coursera.org/)、[Udacity](https://cn.udacity.com/)
 - Hacker News：非常棒的针对编程的链接聚合网站
 - Techmeme：美国知名科技新闻和博客聚集网站，类似的还有（Panda, Hacker & Designer News）
 - Programming reddit：同上
