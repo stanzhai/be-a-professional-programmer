@@ -151,6 +151,7 @@
 - [Data Science blogs](https://github.com/rushter/data-science-blogs)
 - [日志：每个软件工程师都应该知道的有关实时数据的统一概念](https://github.com/oldratlee/translations/blob/master/log-what-every-software-engineer-should-know-about-real-time-datas-unifying/README.md)
 - [Android Code Path](http://guides.codepath.com/android)
+- [Android Learn Notes](https://github.com/GeniusVJR/LearningNotes)
 - [PHP 类库框架，资料集合](https://github.com/ziadoz/awesome-php)
 
 ** 优秀项目 **
