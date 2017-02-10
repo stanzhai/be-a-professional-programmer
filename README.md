@@ -247,6 +247,7 @@
 - [asciinema](https://asciinema.org/): 终端录屏神器
 - Fiddler：非常好用的Web前端调试工具，当然是针对底层http协议的，一般情况使用Chrome等自带的调试工具也足够了，特殊情况还得用它去处理
 - Charles: Mac上的Web代理调试工具，类似Fiddler
+- [fir.im](https://fir.im/)免费的移动App内测托管平台
 - wireshark：知名的网络数据包分析工具
 - PowerCmd:替代Windows Cmd的利器
 - RegexBuddy:强大的正则表达式测试工具
