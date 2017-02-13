@@ -70,6 +70,7 @@
 - [DevStore](http://www.devstore.cn/):开发者服务商店
 - [MSDN](https://msdn.microsoft.com/zh-cn)：微软相关的官方技术集中地，主要是文档类
 - [谷歌开发者](https://developers.google.cn/)
+- [码库](http://www.ctolib.com/) - 收录了实用的开源项目及资源
 
 ### 必看书籍
 
