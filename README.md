@@ -128,6 +128,7 @@
 - [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [awesome-AppSec(系统安全)](https://github.com/paragonie/awesome-appsec)
 - [awesome-datascience](https://github.com/okulbilisim/awesome-datascience)
+- [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) - 数据可视化库及资料
 
 ** 书籍资料 **
 
