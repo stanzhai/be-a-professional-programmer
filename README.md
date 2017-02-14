@@ -422,7 +422,7 @@
 - SuperScrollorama+TweenMax+skrollr:打造超酷的视差滚动效果网页动画
 - jquery-smooth-scroll:同上，平滑滚动插件
 - Animate.css:实现了各种动画效果的css库
-- Emmet:前端工程师必备，ZenCode的前身
+- Emmet:前端工程师必备，前身为 Zen Coding
 - React: facebook出品的js UI库
 - highlight.js：专门用来做语法高亮的库
 - GoJS: Html5交互式图表库，看demo更适合层次结构的图表。
