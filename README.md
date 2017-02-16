@@ -71,6 +71,7 @@
 - [MSDN](https://msdn.microsoft.com/zh-cn)：微软相关的官方技术集中地，主要是文档类
 - [谷歌开发者](https://developers.google.cn/)
 - [码库](http://www.ctolib.com/) - 收录了实用的开源项目及资源
+- [Coding](http://coding.net) 基于Git的国内代码托管平台，支持私有项目，有项目管理相关功能
 
 ### 必看书籍
 
