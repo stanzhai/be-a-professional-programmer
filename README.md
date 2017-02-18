@@ -264,6 +264,7 @@
 - Listary：能极大幅度提高你 Windows 文件浏览与搜索速度效率的「超级神器」
 - Clover：给资源管理器加上多标签，我平时工作的时候就用它，像Chrome一样使用资源管理器，甚是方便啊（这是Windows平台的）
 - WinLaunch：模拟Mac OS的Launch工具
+- OllyDbg: OD大名鼎鼎的反汇编工具，Win平台
 - Fritzing：绘制电路图
 - LICEcap：gif教程制作
 - git，svn：版本控制系统
