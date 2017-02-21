@@ -345,6 +345,8 @@
 - Hadoop：分布式的文件系统，结合其MapReduce编程模型可以用来做海量数据的批处理（Hive，Pig，HBase啥的就不说了），值得介绍的是Cloudera的Hadoop分支CDH5，基于YARN MRv2集成了Spark可直接用于生产环境的Hadoop，对于企业快速构建数据仓库非常有用。
 - Spark：大规模数据处理框架（可以应付企业中常见的三种数据处理场景：复杂的批量数据处理（batch data processing）；基于历史数据的交互式查询（interactive query）；基于实时数据流的数据处理（streaming data processing）），CSND有篇文章介绍的不错
 - 除了Spark，其他几个不错的计算框架还有：Kylin，Flink，Drill
+- Ignite: In-Memory Data Fabric
+- CarbonData: 华为的孵化项目，支持索引的列式存储
 - Ceph:Linux分布式文件系统（特点：无中心）
 - Storm：实时流数据处理，可以看下IBM的一篇介绍 （还有个Yahoo的S4，也是做流数据处理的）
 - Druid: 实时数据分析存储系统
