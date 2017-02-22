@@ -131,6 +131,7 @@
 - [awesome-AppSec(系统安全)](https://github.com/paragonie/awesome-appsec)
 - [awesome-datascience](https://github.com/okulbilisim/awesome-datascience)
 - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) - 数据可视化库及资料
+- [awesome-es](https://github.com/jacksu/awesome-es)
 
 ** 书籍资料 **
 
