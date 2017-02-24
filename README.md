@@ -8,6 +8,8 @@
 
 这里的东西会持续积累下去，欢迎Star，也欢迎发PR给我。
 
+[Thonatos.Yang](https://github.com/thonatos)整理的GitBook版本，阅读体验更佳：<https://thonatos.gitbooks.io/be-a-professional-programmer/>
+
 ## 目录
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
