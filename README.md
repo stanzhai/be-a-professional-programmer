@@ -217,6 +217,7 @@
 - Jenkins/Jira(非开源)：持续集成系统（Apache Continuum，这个是Apache下的CI系统，还没来得及研究）
 - git，svn：源代码版本控制系统
 - GitLab/Gitorious：构建自己的GitHub服务器
+- [AppVeyor](https://ci.appveyor.com/) - 云端持续集成工具，可以与GitHub搭配使用
 - Postman:RESTful，api测试工具，HTTP接口开发必备神器
 - [Lottie](http://airbnb.design/lottie/): AE动画变原生代码，设计师必备
 - Sonar：代码质量管理平台
