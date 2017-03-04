@@ -392,7 +392,9 @@
 - Sea.js: js模块化
 - knockout.js：MVVM开发前台，绑定技术
 - Angular.js: 使用超动感HTML & JS开发WEB应用！
-- Highcharts.js，Flot:常用的Web图表插件
+- Highcharts.js, ECharts, Flot: 常用的数据可视化库
+- D3.js: 是一个基于JavaScript数据展示库（类似的还有P5.js）
+- [Vega](https://vega.github.io/vega/): 基于D3的可视化语法
 - NVD3: 基于d3.js的图表库
 - Raw：非常不错的一款高级数据可视化工具
 - Rickshaw:时序图标库，可用于构建实时图表
@@ -409,7 +411,6 @@
 - pace.js：页面加载进度条
 - bower：Web包管理器
 - jsnice：有趣的js反编译工具，猜压缩后的变量名，http://www.jsnice.org/
-- D3.js: 是一个基于JavaScript数据展示库（类似的还有P5.js）
 - Zepto.js：移动端替代jQuery的东东，当然也可以使用jquery-mobile.
 - UI框架：Foundation，Boostrap，Pure，EasyUI，Polymer
 - 前段UI设计师必去的几个网站：Dribbble，awwwards，unmatchedstyle，UIMaker
