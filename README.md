@@ -107,6 +107,7 @@
 
 ### 大牛博客
 
+- [awesome-programmers](https://github.com/rekihattori/awesome-programmers) - 各领域大牛，值得纪念的程序员们
 - 云风（游戏界大牛）: <http://blog.codingnow.com/>
 - 王垠（不少文章喷到蛮有道理）：<http://www.yinwang.org/>
 - 冰河-伞哥(Lisp大牛)：<http://tianchunbinghe.blog.163.com/>
