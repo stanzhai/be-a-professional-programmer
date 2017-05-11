@@ -8,6 +8,8 @@
 
 这里的东西会持续积累下去，欢迎Star，也欢迎发PR给我。
 
+[Thonatos.Yang](https://github.com/thonatos)整理的GitBook版本，阅读体验更佳：<https://thonatos.gitbooks.io/be-a-professional-programmer/>
+
 ## 目录
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -105,6 +107,7 @@
 
 ### 大牛博客
 
+- [awesome-programmers](https://github.com/rekihattori/awesome-programmers) - 各领域大牛，值得纪念的程序员们
 - 云风（游戏界大牛）: <http://blog.codingnow.com/>
 - 王垠（不少文章喷到蛮有道理）：<http://www.yinwang.org/>
 - 冰河-伞哥(Lisp大牛)：<http://tianchunbinghe.blog.163.com/>
@@ -131,9 +134,12 @@
 - [awesome-AppSec(系统安全)](https://github.com/paragonie/awesome-appsec)
 - [awesome-datascience](https://github.com/okulbilisim/awesome-datascience)
 - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) - 数据可视化库及资料
+- [awesome-es](https://github.com/jacksu/awesome-es)
+- [awesome-comment](https://github.com/Blankj/awesome-comment) - 神注释大全
 
 ** 书籍资料 **
 
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): 系统设计入门
 - [free-programming-books](https://github.com/bingwen/free-programming-books/blob/master/free-programming-books-ch.md) [中文版](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 - [《程序员编程艺术 — 面试和算法心得》](https://github.com/julycoding/The-Art-Of-Programming-By-July)
@@ -209,11 +215,13 @@
 
 ### 平台工具
 
+- [Swagger](http://swagger.io/): RESTful API设计工具，前后端分离项目必备，顺便推荐下[Easy Mock](https://www.easy-mock.com/)
 - Phabricator: 软件开发平台，Facebook出品，现已开源，CodeReview神器（从这个往下一直到GitLab之间的工具统统可以忽略了）
 - Redmine/Trac：项目管理平台
 - Jenkins/Jira(非开源)：持续集成系统（Apache Continuum，这个是Apache下的CI系统，还没来得及研究）
 - git，svn：源代码版本控制系统
 - GitLab/Gitorious：构建自己的GitHub服务器
+- [AppVeyor](https://ci.appveyor.com/) - 云端持续集成工具，可以与GitHub搭配使用
 - Postman:RESTful，api测试工具，HTTP接口开发必备神器
 - [Lottie](http://airbnb.design/lottie/): AE动画变原生代码，设计师必备
 - Sonar：代码质量管理平台
@@ -345,6 +353,8 @@
 - Hadoop：分布式的文件系统，结合其MapReduce编程模型可以用来做海量数据的批处理（Hive，Pig，HBase啥的就不说了），值得介绍的是Cloudera的Hadoop分支CDH5，基于YARN MRv2集成了Spark可直接用于生产环境的Hadoop，对于企业快速构建数据仓库非常有用。
 - Spark：大规模数据处理框架（可以应付企业中常见的三种数据处理场景：复杂的批量数据处理（batch data processing）；基于历史数据的交互式查询（interactive query）；基于实时数据流的数据处理（streaming data processing）），CSND有篇文章介绍的不错
 - 除了Spark，其他几个不错的计算框架还有：Kylin，Flink，Drill
+- Ignite: In-Memory Data Fabric
+- CarbonData: 华为的孵化项目，支持索引的列式存储
 - Ceph:Linux分布式文件系统（特点：无中心）
 - Storm：实时流数据处理，可以看下IBM的一篇介绍 （还有个Yahoo的S4，也是做流数据处理的）
 - Druid: 实时数据分析存储系统
@@ -386,7 +396,9 @@
 - Sea.js: js模块化
 - knockout.js：MVVM开发前台，绑定技术
 - Angular.js: 使用超动感HTML & JS开发WEB应用！
-- Highcharts.js，Flot:常用的Web图表插件
+- Highcharts.js, ECharts, Flot: 常用的数据可视化库
+- D3.js: 是一个基于JavaScript数据展示库（类似的还有P5.js）
+- [Vega](https://vega.github.io/vega/): 基于D3的可视化语法
 - NVD3: 基于d3.js的图表库
 - Raw：非常不错的一款高级数据可视化工具
 - Rickshaw:时序图标库，可用于构建实时图表
@@ -403,7 +415,6 @@
 - pace.js：页面加载进度条
 - bower：Web包管理器
 - jsnice：有趣的js反编译工具，猜压缩后的变量名，http://www.jsnice.org/
-- D3.js: 是一个基于JavaScript数据展示库（类似的还有P5.js）
 - Zepto.js：移动端替代jQuery的东东，当然也可以使用jquery-mobile.
 - UI框架：Foundation，Boostrap，Pure，EasyUI，Polymer
 - 前段UI设计师必去的几个网站：Dribbble，awwwards，unmatchedstyle，UIMaker
