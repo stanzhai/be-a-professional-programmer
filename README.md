@@ -139,6 +139,7 @@
 
 ** 书籍资料 **
 
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): 系统设计入门
 - [free-programming-books](https://github.com/bingwen/free-programming-books/blob/master/free-programming-books-ch.md) [中文版](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 - [《程序员编程艺术 — 面试和算法心得》](https://github.com/julycoding/The-Art-Of-Programming-By-July)
