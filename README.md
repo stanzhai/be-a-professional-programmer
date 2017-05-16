@@ -222,7 +222,7 @@
 - git，svn：源代码版本控制系统
 - GitLab/Gitorious：构建自己的GitHub服务器
 - [AppVeyor](https://ci.appveyor.com/) - 云端持续集成工具，可以与GitHub搭配使用
-- Postman:RESTful，api测试工具，HTTP接口开发必备神器
+- Postman:RESTful，api测试工具，HTTP接口开发必备神器；可替代工具：[Insomnia](https://insomnia.rest/)
 - [Lottie](http://airbnb.design/lottie/): AE动画变原生代码，设计师必备
 - Sonar：代码质量管理平台
 - Nessus: 系统漏洞扫描器
