@@ -475,6 +475,7 @@
 - 常用的IDE：IntelliJ IDEA(强烈推荐)，Eclipse，Netbeans
 - [fastutil](http://fastutil.di.unimi.it/): 性能更好的Java集合框架
 - Guava: 谷歌的Java工具包，应用广泛
+- [Lagom](https://www.lagomframework.com/): 微服务框架，提供了Java、Scala API
 - Curator：Netflix公司开源的一个Zookeeper client library，用于简化Zookeeper客户端编程，现在已经是apache下的一个独立项目了。Spark的HA也用的这货。
 - Rx(Reactive Extensions)框架：Vert.x, RxJava(Android中用的比较多),  Quasar
 - FindBugs: 代码静态分析工具，找出代码缺陷
