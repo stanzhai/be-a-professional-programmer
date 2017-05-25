@@ -309,6 +309,7 @@
 
 ### 第三方服务
 
+- [Let's Encrypt](https://letsencrypt.org/): 免费、自动化、开放的证书签发服务
 - DnsPod：一个不错的智能DNS服务解析提供商
 - DigitalOcean：海外的云主机提供商，价格便宜，磁盘是SSD的，用过一段时间整体上还可以，不过毕竟是海外的，网速比较慢。国内的就是阿里云了。还有个比较知名的是：Linode，据说速度上比DigitalOcean好很多
 - 移动端推送服务：个推、JPush、云巴
