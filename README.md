@@ -362,6 +362,7 @@
 - Druid: 实时数据分析存储系统
 - Ambari: 大数据平台搭建、监控利器；类似的还有CDH
 - Tachyon：分布式内存文件系统
+- [Greenplum](http://greenplum.org/): 基于PostgreSQL的分布式MPP数据库
 - Mesos：计算框架一个集群管理器，提供了有效的、跨分布式应用或框架的资源隔离和共享
 - Impala：新一代开源大数据分析引擎，提供Sql语义，比Hive强在速度上
 - presto: facebook的开源工具，大数据分布式sql查询引擎
