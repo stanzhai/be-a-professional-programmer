@@ -471,6 +471,7 @@
 - [Glossary of Scala and FP terms](http://docs.scala-lang.org/glossary/)
 - [Metascala: A JVM written in Scala](https://github.com/lihaoyi/Metascala)
 - [LMS: Program Generation and Embedded Compilers in Scala](https://scala-lms.github.io/)
+- [parboiled2](https://github.com/sirthias/parboiled2): 性能很好的parser
 
 ### Java
 
