@@ -136,6 +136,7 @@
 - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) - 数据可视化库及资料
 - [awesome-es](https://github.com/jacksu/awesome-es)
 - [awesome-comment](https://github.com/Blankj/awesome-comment) - 神注释大全
+- [awesome-hacking](https://github.com/carpedm20/awesome-hacking) - 黑客工具箱
 
 ** 书籍资料 **
 
