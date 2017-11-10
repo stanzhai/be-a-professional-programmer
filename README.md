@@ -221,6 +221,7 @@
 
 ### 平台工具
 
+- [Jupyter](http://jupyter.org/): IPython Notebook, 有个子项目sparkmagic，可以和Spark集合在一起，类似spark-notebook项目
 - [Swagger](http://swagger.io/): RESTful API设计工具，前后端分离项目必备，顺便推荐下[Easy Mock](https://www.easy-mock.com/)
 - Phabricator: 软件开发平台，Facebook出品，现已开源，CodeReview神器（从这个往下一直到GitLab之间的工具统统可以忽略了）
 - Redmine/Trac：项目管理平台
