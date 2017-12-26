@@ -240,8 +240,7 @@
 - 日志聚合：graylog、ELK（推荐新一代的graylog，基本上算作是开源的Splunk了）
 - 开源测试工具、社区（Selenium、OpenQA.org）
 - Puppet:一个自动管理引擎，可以适用于Linux、Unix以及Windows平台。所谓配置管理系统，就是管理机器里面诸如文件、用户、进程、软件包这些资源。无论是管理1台，还是上万台机器Puppet都能轻松搞定。其他类似工具：CFEngine、SaltStack、Ansible
-- Nagios：系统状态监控报警，还有个Icinga(完全兼容nagios所有的插件,工作原理,配置文件以及方法,几乎一模一样。配置简单,功能强大)
-- Ganglia：分布式监控系统
+- [Prometheus](https://prometheus.io/) 监控系统+时序数据库，一般搭配Grafana使用。类似的系统还有Nagios,Zabbix,Ganglia
 - fleet：分布式init系统
 - Ansible：能够大大简化Unix管理员的自动化配置管理与流程控制方式。
 - GeoLite免费数据库
