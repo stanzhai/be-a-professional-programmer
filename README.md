@@ -322,6 +322,7 @@
 - [LeanCloud](https://leancloud.cn/)：移动应用开发服务，包括:数据存储、用户管理、消息推送、应用统计、社交分享、实时聊天等服务
 - [Color Hunt](http://www.colorhunt.co/): 漂亮炫酷的配色网站，程序员的福音
 - [Heroku: PaaS平台](https://www.heroku.com/)
+- [Rainbond](https://github.com/goodrain/rainbond): 一款开源PaaS平台，整合基于Kubernetes的容器管理、多类型CI/CD应用构建与交付、多数据中心的资源管理等技术提供完整的云原生应用管理解决方案
 
 ### 爬虫相关(好玩的工具)
 
