@@ -335,7 +335,8 @@
 ### 安全相关
 
 - sql注入检测：sqlmap、haviji
-- 端口扫描：nmap
+- 端口扫描：nmap, 
+- [masscan](https://github.com/robertdavidgraham/masscan)：据说可以6分钟中扫遍整个互联网的端口扫描器
 - 渗透测试：BurpLoader
 - sqltools: sql漏洞利用工具
 - snort: 入侵检测
