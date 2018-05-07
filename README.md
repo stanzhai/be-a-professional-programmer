@@ -483,12 +483,16 @@
 
 ### Java
 
-- 常用的IDE：IntelliJ IDEA(强烈推荐)，Eclipse，Netbeans
+- 常用的IDE：[IntelliJ IDEA](https://www.jetbrains.com/idea/)(强烈推荐)，Eclipse，Netbeans
 - [fastutil](http://fastutil.di.unimi.it/): 性能更好的Java集合框架
-- Guava: 谷歌的Java工具包，应用广泛
+- [Guava](https://github.com/google/guava): 谷歌的Java工具包，应用广泛
+- [JMH](http://openjdk.java.net/projects/code-tools/jmh/): Java Benchmark性能测试框架
+- [Vert.x](https://vertx.io/): 性能彪悍的异步非阻塞编程框架
 - [Lagom](https://www.lagomframework.com/): 微服务框架，提供了Java、Scala API
+- jOOQ：java Orm框架
+- Janino: 超级小又快的Java编译器，Spark的Tungsten引起用的它
 - Curator：Netflix公司开源的一个Zookeeper client library，用于简化Zookeeper客户端编程，现在已经是apache下的一个独立项目了。Spark的HA也用的这货。
-- Rx(Reactive Extensions)框架：Vert.x, RxJava(Android中用的比较多),  Quasar
+- Rx(Reactive Extensions)框架：RxJava(Android中用的比较多),  Quasar
 - FindBugs: 代码静态分析工具，找出代码缺陷
 - Java反编译工具：Luyten，JD-Gui
 - Drools: 规则引擎
@@ -497,8 +501,6 @@
 - Web开发相关：Tomcat、Resin、Jetty、WebLogic等，常用的组件Struts，Spring，Hibernate
 - Netty: 异步事件驱动网络应用编程框架，用于高并发网络编程比较好（NIO框架，spark 1.2.0就用netty替代了nio）
 - MINA：简单地开发高性能和高可靠性的网络应用程序（也是个NIO框架），不少手游服务端是用它开发的
-- jOOQ：java Orm框架
-- Janino: 超级小又快的Java编译器，Spark的Tungsten引起用的它
 - Activiti:工作流引擎，类似的还有jBPM、Snaker
 - Perfuse:是一个用户界面包用来把有结构与无结构数据以具有交互性的可视化图形展示出来.
 - Gephi:复杂网络分析软件, 其主要用于各种网络和复杂系统，动态和分层图的交互可视化与探测开源工具
