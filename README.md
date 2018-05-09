@@ -220,11 +220,12 @@
 
 ## 工具篇
 
-### 平台工具
+### 平台工具&框架
 
 - [Jupyter](http://jupyter.org/): IPython Notebook, 有个子项目sparkmagic，可以和Spark集合在一起，类似spark-notebook项目
 - [Swagger](http://swagger.io/): RESTful API设计工具，前后端分离项目必备，顺便推荐下[Easy Mock](https://www.easy-mock.com/)
-- Phabricator: 软件开发平台，Facebook出品，现已开源，CodeReview神器（从这个往下一直到GitLab之间的工具统统可以忽略了）
+- [Flutter](https://flutter.io/): Google出品，高性能跨平台移动应用开发框架
+- [Phabricator](https://secure.phabricator.com/): 软件开发平台，Facebook出品，现已开源，CodeReview神器（从这个往下一直到GitLab之间的工具统统可以忽略了）
 - Redmine/Trac：项目管理平台
 - Jenkins/Jira(非开源)：持续集成系统（Apache Continuum，这个是Apache下的CI系统，还没来得及研究）
 - git，svn：源代码版本控制系统
@@ -240,6 +241,7 @@
 - 日志聚合：graylog、ELK（推荐新一代的graylog，基本上算作是开源的Splunk了）
 - 开源测试工具、社区（Selenium、OpenQA.org）
 - Puppet:一个自动管理引擎，可以适用于Linux、Unix以及Windows平台。所谓配置管理系统，就是管理机器里面诸如文件、用户、进程、软件包这些资源。无论是管理1台，还是上万台机器Puppet都能轻松搞定。其他类似工具：CFEngine、SaltStack、Ansible
+- [jumpserver](http://www.jumpserver.org/): 开源堡垒机
 - [Prometheus](https://prometheus.io/) 监控系统+时序数据库，一般搭配Grafana使用。类似的系统还有Nagios,Zabbix,Ganglia
 - fleet：分布式init系统
 - Ansible：能够大大简化Unix管理员的自动化配置管理与流程控制方式。
@@ -283,7 +285,6 @@
 - OllyDbg: OD大名鼎鼎的反汇编工具，Win平台
 - Fritzing：绘制电路图
 - LICEcap：gif教程制作
-- git，svn：版本控制系统
 - Enigma Virtual Box（将exe，dll等封装成一个可执行程序）
 - Open DBDiff(针对SqlServer)数据库同步
 - SymmetricDS：数据库同步
