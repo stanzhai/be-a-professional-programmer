@@ -126,9 +126,9 @@
 ** Awesome **
 
 - [Awesome](https://github.com/sindresorhus/awesome): 这是个Awesome合集，常见的资料这里面都能找到
-- [Awesome2](https://github.com/sindresorhus/awesome): 类似第一个Awesome
 - [杂七杂八、有用没用的Awesome合集](https://github.com/jnv/lists)
-- [非常不错的语言类学习资料集合：Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [Awesomeness](https://github.com/bayandin/awesome-awesomeness) - 非常不错的语言类学习资料集合
+- [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 - [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
