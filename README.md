@@ -58,7 +58,7 @@
 - [GitHub](https://github.com/)：全球最大的源代码管理平台，很多知名开源项目都在上面，如[Linux内核](https://github.com/torvalds/linux)，[OpenStack](https://github.com/openstack/openstack)等
 - [码云](https://git.oschina.net/)：支持中文可免费创建私有项目的代码托管平台，可作为备选
 - [LeetCode](https://leetcode.com/)：来做做这些题吧，看看自己的算法水平如何？这可比什么面试宝典强多了。
-- [LintCode](http://www.lintcode.com/zh-cn/)：支持中文的编程题在线训练平台，可作为备选
+- [LintCode](https://www.lintcode.com/)：支持中文的编程题在线训练平台，可作为备选
 - [Kaggle](https://www.kaggle.com/),[Topcoder](https://www.topcoder.com/): 机器学习、大数据竞赛
 - [掘金](https://gold.xitu.io/)：高质量的技术社区
 - [开发者头条](https://toutiao.io/)
