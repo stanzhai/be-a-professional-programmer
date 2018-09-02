@@ -86,7 +86,7 @@
 - 算法导论（麻省理工学院出版社）
 - 离散数学及其应用
 - 设计模式
-- 编程之美
+- 编程之美、[算法之美](https://book.douban.com/subject/30155731/)
 - 黑客与画家
 - 编程珠玑
 - The Little Schemer
