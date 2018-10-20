@@ -499,7 +499,7 @@
 - Curator：Netflix公司开源的一个Zookeeper client library，用于简化Zookeeper客户端编程，现在已经是apache下的一个独立项目了。Spark的HA也用的这货。
 - Rx(Reactive Extensions)框架：RxJava(Android中用的比较多),  Quasar
 - FindBugs: 代码静态分析工具，找出代码缺陷
-- Java反编译工具：Luyten，JD-Gui
+- Java反编译工具：Luyten，JD-Gui,Procyon-Decompiler
 - Drools: 规则引擎
 - Jersey: Java RESTful 框架
 - canal: 阿里巴巴出品，binlog增量订阅&消费组件
