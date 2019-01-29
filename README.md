@@ -410,6 +410,7 @@
 - [Sciter](https://sciter.com/): GUI框架，采用自己的HTML/CSS解析器，具有出色的扩展特性和性能，dll压缩后在1~2M
 - GRUNT: js task runner
 - Sea.js: js模块化
+- [jsplumb](https://github.com/jsplumb/jsplumb): 流程图可视化库
 - knockout.js：MVVM开发前台，绑定技术
 - Angular.js: 使用超动感HTML & JS开发WEB应用！
 - Highcharts.js, ECharts, Flot: 常用的数据可视化库
@@ -417,7 +418,7 @@
 - [Vega](https://vega.github.io/vega/): 基于D3的可视化语法
 - NVD3: 基于d3.js的图表库
 - Raw：非常不错的一款高级数据可视化工具
-- Rickshaw:时序图标库，可用于构建实时图表
+- Rickshaw: 时序图表库，可用于构建实时图表
 - JavaScript InfoVis Toolkit：另一款Web数据可视化插件
 - Pdf.js，在html中展现pdf
 - ACE，CodeMirror：Html代码编辑器（ACE甚好啊）
