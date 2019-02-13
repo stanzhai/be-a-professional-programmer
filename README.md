@@ -275,7 +275,7 @@
 - PowerCmd:替代Windows Cmd的利器，类似的还有[cmder](http://cmder.net/)
 - [Xming](https://sourceforge.net/projects/xming/): Windows下的X Window Server，结合putty可以实现linux的图形化软件直接跑在Windows上 
 - RegexBuddy:强大的正则表达式测试工具
-- Soure Insight：源代码阅读神器
+- Source Insight：源代码阅读神器
 - SublimeText：程序员最爱的编辑器
 - Database.NET：一个通用的关系型数据库客户端，基于.NET 4.0开发的，做简单的处理还是蛮方便的
 - Navicat Premium：支持MySql、PostgreSQL、Oracle、Sqlite和SQL Server的客户端，通用性上不如Database.NET，但性能方面比Database.NET好很多，自带备份功能也用于数据库定时备份。
