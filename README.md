@@ -273,6 +273,7 @@
 - [fir.im](https://fir.im/)免费的移动App内测托管平台
 - wireshark：知名的网络数据包分析工具
 - PowerCmd:替代Windows Cmd的利器，类似的还有[cmder](http://cmder.net/)
+- [MobaXterm](https://mobaxterm.mobatek.net/): Windows下的全能终端神器
 - [Xming](https://sourceforge.net/projects/xming/): Windows下的X Window Server，结合putty可以实现linux的图形化软件直接跑在Windows上 
 - RegexBuddy:强大的正则表达式测试工具
 - Source Insight：源代码阅读神器
