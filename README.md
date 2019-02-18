@@ -217,7 +217,7 @@
 - [开发者工具箱， free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
 - [Git风格指南](https://github.com/agis-/git-style-guide)
-- [Bast-App](https://github.com/hzlzh/Best-App)
+- [Best-App](https://github.com/hzlzh/Best-App)
 
 ## 工具篇
 
