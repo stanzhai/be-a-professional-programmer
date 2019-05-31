@@ -92,7 +92,7 @@
 - 编程珠玑
 - The Little Schemer
 - Simply Scheme_Introducing_Computer_Science
-- C++ Prime
+- C++ Primer
 - Effective C++
 - TCP/IP详解
 - Unix 编程艺术
