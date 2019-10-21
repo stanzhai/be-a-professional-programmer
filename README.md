@@ -219,6 +219,7 @@
 - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
 - [Git风格指南](https://github.com/agis-/git-style-guide)
 - [Best-App](https://github.com/hzlzh/Best-App)
+- [OSINT:dingba.top](http://dingba.top/), [awesome-osint](https://github.com/jivoi/awesome-osint)
 
 ## 工具篇
 
