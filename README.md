@@ -225,6 +225,7 @@
 
 ### 平台工具&框架
 
+- 云：Rancher > Kubernetes(k8s) > Docker（镜像库：registry，Harbor，JFrog Artifactory）
 - [Jupyter](http://jupyter.org/): IPython Notebook, 有个子项目sparkmagic，可以和Spark集合在一起，类似spark-notebook项目
 - [Swagger](http://swagger.io/): RESTful API设计工具，前后端分离项目必备，顺便推荐下[Easy Mock](https://www.easy-mock.com/)
 - [Flutter](https://flutter.io/): Google出品，高性能跨平台移动应用开发框架
