@@ -239,6 +239,7 @@
 - Postman:RESTful，api测试工具，HTTP接口开发必备神器；可替代工具：[Insomnia](https://insomnia.rest/)
 - [Lottie](http://airbnb.design/lottie/): AE动画变原生代码，设计师必备
 - Sonar：代码质量管理平台
+- [JMeter](https://jmeter.apache.org/): 测试框架，还有[Locust](https://locust.io/)
 - Nessus: 系统漏洞扫描器
 - gitbook：<https://www.gitbook.io/>写书的好东西，当然用来写文档也很不错的（发现不少产品的文档就是用的它）
 - Travis-ci：开源项目持续集成必备，和GitHub相结合，<https://travis-ci.org/>
