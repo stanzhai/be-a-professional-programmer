@@ -141,6 +141,7 @@
 - [awesome-comment](https://github.com/Blankj/awesome-comment) - 神注释大全
 - [awesome-hacking](https://github.com/carpedm20/awesome-hacking) - 黑客工具箱
 - [awesome-machine-learning](https://github.com/jacksu/machine-learning) - 机器学习资料
+- [awesome-kubernetes-notes](https://github.com/redhatxl/awesome-kubernetes-notes) - kubernetes学习资料
 
 ** 书籍资料 **
 
