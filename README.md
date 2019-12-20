@@ -436,7 +436,7 @@
 - jsnice：有趣的js反编译工具，猜压缩后的变量名，http://www.jsnice.org/
 - Zepto.js：移动端替代jQuery的东东，当然也可以使用jquery-mobile.
 - UI框架：Foundation，Boostrap，Pure，EasyUI，Polymer
-- 前段UI设计师必去的几个网站：Dribbble，awwwards，unmatchedstyle，UIMaker
+- 前端UI设计师必去的几个网站：Dribbble，awwwards，unmatchedstyle，UIMaker
 - Mozilla 开发者中心：https://developer.mozilla.org/en-US/
 - 图标资源：IcoMoon（我的最爱），Font Awesome, Themify Icons，FreePik，Glyphicons
 - artDialog:非常漂亮的对话框
