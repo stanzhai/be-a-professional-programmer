@@ -221,6 +221,7 @@
 - [Git风格指南](https://github.com/agis-/git-style-guide)
 - [Best-App](https://github.com/hzlzh/Best-App)
 - [OSINT:dingba.top](http://dingba.top/), [awesome-osint](https://github.com/jivoi/awesome-osint)
+- 加壳、脱壳工具：Armadillo, ASProtect, Themida, Execryptor, VMProtect, Obsidium
 
 ## 工具篇
 
