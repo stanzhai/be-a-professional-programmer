@@ -233,6 +233,7 @@
 - [Flutter](https://flutter.io/): Google出品，高性能跨平台移动应用开发框架
 - [OpenZipkin](https://zipkin.io/): 分布式Trace系统，可用于分析服务调用链间的消耗
 - [Sentry](https://sentry.io): 系统监控与错误日志跟踪系统
+- 基于Web技术的跨平台应用开发框架：[tauri:Rust开发，小而快](https://github.com/tauri-apps/tauri)，[sciter](https://sciter.com/)，[electron](https://github.com/electron/electron)
 - [Phabricator](https://secure.phabricator.com/): 软件开发平台，Facebook出品，现已开源，CodeReview神器（从这个往下一直到GitLab之间的工具统统可以忽略了）
 - Redmine/Trac：项目管理平台
 - Jenkins/Jira(非开源)：持续集成系统（Apache Continuum，这个是Apache下的CI系统，还没来得及研究）
@@ -415,7 +416,6 @@
 
 - [Material Design](https://material.io/): 谷歌出品，必属精品
 - Vue.js: 借鉴了Angular及React的JS框架，设计理念较为先进
-- [Sciter](https://sciter.com/): GUI框架，采用自己的HTML/CSS解析器，具有出色的扩展特性和性能，dll压缩后在1~2M
 - [jsplumb](https://github.com/jsplumb/jsplumb): 流程图可视化库
 - [cytoscape.js](https://github.com/cytoscape/cytoscape.js): 关系图谱可视化库
 - [d3](https://github.com/d3/d3): 非常知名的数据可视化库（类似的还有NVD3，P5.js，Highcharts，Echart，Flot等）
