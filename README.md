@@ -233,7 +233,7 @@
 - [Flutter](https://flutter.io/): Google出品，高性能跨平台移动应用开发框架
 - [OpenZipkin](https://zipkin.io/): 分布式Trace系统，可用于分析服务调用链间的消耗
 - [Sentry](https://sentry.io): 系统监控与错误日志跟踪系统
-- 基于Web技术的跨平台应用开发框架：[tauri:Rust开发，小而快](https://github.com/tauri-apps/tauri)，[sciter](https://sciter.com/)，[electron](https://github.com/electron/electron)
+- 基于Web技术的跨平台应用开发框架：[Revery: facebook基于Reason开发，Native、Fast](https://github.com/revery-ui/revery), [tauri:Rust开发，小而快](https://github.com/tauri-apps/tauri)，[sciter](https://sciter.com/)，[electron](https://github.com/electron/electron)
 - [Phabricator](https://secure.phabricator.com/): 软件开发平台，Facebook出品，现已开源，CodeReview神器（从这个往下一直到GitLab之间的工具统统可以忽略了）
 - Redmine/Trac：项目管理平台
 - Jenkins/Jira(非开源)：持续集成系统（Apache Continuum，这个是Apache下的CI系统，还没来得及研究）
