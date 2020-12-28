@@ -265,7 +265,7 @@
 - influxdb: 分布式时序数据库，结合Grafana可以进行实时数据分析
 - dot: 程序员绘图利器（是种语言，也是个工具）
 - Graph::Easy: （Ascii Art工具）字符流程图绘制，实乃程序员装逼神器。其他类似的工具Asciiflow, vi插件：drawit!
-- spf13-vim: 让你的vim飞起来！
+- spf13-vim: 让你的vim飞起来！这货好久没更新了，安装也有问题，比较好的替换是：[space-vim](https://github.com/liuchengxu/space-vim)
 - Kubernetes: 容器集群管理系统
 - [Gatling](https://gatling.io/): 服务器性能压力测试工具，类似的还有[wrk](https://github.com/wg/wrk)
 - systemtap: Linux内核探测工具、内核调试神器
