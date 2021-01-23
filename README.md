@@ -168,12 +168,16 @@
 - [R的极客理想系列文章](http://blog.fens.me/series-r/)
 - [HTTP接口设计指南](https://github.com/bolasblack/http-api-guide)
 - [分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/foru17/front-end-collect)
-- [Readings in Databases](https://github.com/rxin/db-readings)
 - [Data Science blogs](https://github.com/rushter/data-science-blogs)
 - [日志：每个软件工程师都应该知道的有关实时数据的统一概念](https://github.com/oldratlee/translations/blob/master/log-what-every-software-engineer-should-know-about-real-time-datas-unifying/README.md)
 - [Android Code Path](http://guides.codepath.com/android)
 - [Android Learn Notes](https://github.com/GeniusVJR/LearningNotes)
 - [PHP 类库框架，资料集合](https://github.com/ziadoz/awesome-php)
+
+** 数据库 **
+
+- [Readings in Databases](https://github.com/rxin/db-readings)
+- [PingCAP整理的数据库领域的各种材料](https://github.com/pingcap/awesome-database-learning)
 
 ** 优秀项目 **
 
@@ -422,6 +426,7 @@
 - [d3](https://github.com/d3/d3): 非常知名的数据可视化库（类似的还有NVD3，P5.js，Highcharts，Echart，Flot等）
 - [Vega](https://vega.github.io/vega/): 基于D3的可视化语法
 - [Raw](https://github.com/densitydesign/raw)：非常不错的一款高级数据可视化工具
+- [Blockly，谷歌开源的可视化编程组件，不少少儿编程用到了](https://github.com/google/blockly)
 - Rickshaw: 时序图表库，可用于构建实时图表
 - JavaScript InfoVis Toolkit：另一款Web数据可视化插件
 - Pdf.js，在html中展现pdf
