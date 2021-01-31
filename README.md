@@ -262,7 +262,6 @@
 - fleet：分布式init系统
 - Ansible：能够大大简化Unix管理员的自动化配置管理与流程控制方式。
 - GeoLite免费数据库
-- jsHint:js代码验证工具
 - haproxy: 高可用负载均衡（此外类似的系统还有nginx，lvs）
 - linux OS性能分析工具：dstat，iostat，iotop，nmon
 - kimono：将网页信息转换为api接口的工具
@@ -279,6 +278,7 @@
 
 ### 常用工具
 
+- [Radare2](https://github.com/radareorg/radare2):逆向工程平台
 - [EditorConfig](http://editorconfig.org/): 让我们在各种不同IDE或编辑器下写代码保持风格一致
 - [Mac下的神兵利器](https://github.com/hzlzh/Best-App)
 - [asciinema](https://asciinema.org/): 终端录屏神器
