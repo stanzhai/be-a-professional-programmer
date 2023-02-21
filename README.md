@@ -178,6 +178,7 @@
 
 - [Readings in Databases](https://github.com/rxin/db-readings)
 - [PingCAP整理的数据库领域的各种材料](https://github.com/pingcap/awesome-database-learning)
+- [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 
 ** 优秀项目 **
 
