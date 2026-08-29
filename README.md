@@ -232,6 +232,7 @@
 
 ### 平台工具&框架
 
+- [Agent QA](https://github.com/vostride/agent-qa)：源码可用的 QA 智能体，可用自然语言编写和运行 Web、移动端测试，保留执行记忆，并在界面变化时调整流程；采用 FSL-1.1-ALv2 许可证，每个版本两年后转为 Apache-2.0
 - 云：Rancher > Kubernetes(k8s) > Docker（镜像库：registry，Harbor，JFrog Artifactory）
 - [Jupyter](http://jupyter.org/): IPython Notebook, 有个子项目sparkmagic，可以和Spark集合在一起，类似spark-notebook项目
 - [Swagger](http://swagger.io/): RESTful API设计工具，前后端分离项目必备，顺便推荐下[Easy Mock](https://www.easy-mock.com/)
@@ -657,4 +658,3 @@
 - 环形缓冲区，实时数据传输用
 - SDL,ffmpeg,live555,Speex
 - Red5:用Java开发开源的Flash流媒体服务器。它支持：把音频（MP3）和视频（FLV）转换成播放流； 录制客户端播放流（只支持FLV）；共享对象；现场直播流发布；远程调用。
-
