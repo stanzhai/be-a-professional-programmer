@@ -309,6 +309,7 @@
 - BIEE,Infomatica，SPSS，weka，R语言：数据分析
 - CodeSmith，LightSwitch：代码生成
 - Pandoc：Markdown转换工具，出书用的。以前玩过docbook，不过现在还是Markdown盛行啊。
+- [Doc2X](https://doc2x.noedgeai.com/)：PDF/图片文档解析与翻译，识别公式表格并导出 Word、Markdown、LaTeX；网页需账号领取有限免费解析额度，升级及云端 API 另费。
 - Window Magnet[Mac]：增强Mac窗口管理功能，想Win7一样具有窗口拖放到屏幕边缘自动调整的功能
 - log explorer：查看SqlServer日志
 - dependency walker：查询Windows应用程序dll依赖项
