@@ -221,6 +221,7 @@
 - [收集整理远程工作相关的资料](https://github.com/greatghoul/remote-working)
 - [Color schemes for hackers](https://github.com/chriskempson/base16)
 - [游戏开发工具集，MagicTools](https://github.com/ellisonleao/magictools)
+- [游戏开发 AI 工具目录，RespawnStack](https://respawnstack.com)
 - [开发者工具箱， free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
 - [Git风格指南](https://github.com/agis-/git-style-guide)
