@@ -342,6 +342,7 @@
 - [LeanCloud](https://leancloud.cn/)：移动应用开发服务，包括:数据存储、用户管理、消息推送、应用统计、社交分享、实时聊天等服务
 - [Color Hunt](http://www.colorhunt.co/): 漂亮炫酷的配色网站，程序员的福音
 - [Heroku: PaaS平台](https://www.heroku.com/)
+- [MoeRouter](https://moerouter.com/)：面向开发者的多模型 API 服务，按可用线路选路并按实际用量以人民币结算。
 
 ### 爬虫相关(好玩的工具)
 
